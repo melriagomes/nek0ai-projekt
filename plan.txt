@@ -1,0 +1,23 @@
+
+
+
+1. Problem: Never knowing where the internal & extrernal campus shuttle is, thus people 
+miss the shuttle and it becomes super inconvenient. 
+
+Solution: Maybe an AI tracker that can be synced to the shuttle driver's phone which 
+updates with his GPS location which is further connected to an app a student can have.
+
+2. Problem: Wanting certain type of clothing designs but never knowing how to find 
+them/wanting personalized clothing and wanting to see how it looks on you
+
+Solution: Being able to draw the cardigan, which then renders and turns real and 
+can be put onto a picture of you which can look realistic, which can then be image 
+searched to find a similar variable of that cardigan online. 
+
+3. Problem: Busy calendars, Always having to check your availability, Needing 
+to check the other's availability to schedule a meeting, a date, anything
+
+Solution: A time summarizer of sorts in which you can input everyone's 
+calenders and it'll auto generate when either of you are available for the other 
+person without having to look back and forth. It'll be able to quickly generate 
+available timings to both and coordinate accordingly.
