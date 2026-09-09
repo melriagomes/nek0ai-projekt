@@ -19,4 +19,6 @@ calenders and it'll auto generate when either of you are available for the other
 person without having to look back and forth. It'll be able to quickly generate 
 available timings to both and coordinate accordingly.
 
-I like cats
+I want a cute cat 
+and i want to play pokemon go
+idk
